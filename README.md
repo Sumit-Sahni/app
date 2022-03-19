@@ -7,13 +7,13 @@
 
 
  ***** Loading... component would show while fetching user Data 
+![Screenshot (48)](https://user-images.githubusercontent.com/83834297/159114125-5855e477-7827-4a22-abcb-6df5a5f70bc0.png)
 
-![Screenshot (47)](https://user-images.githubusercontent.com/83834297/159114121-d235f0d2-34e8-43fa-b8cf-c7c65ba4fa16.png)
 
 
  ***** If you would search any username and if that user is not present in that data will show "No Data Found" 
+![Screenshot (47)](https://user-images.githubusercontent.com/83834297/159114121-d235f0d2-34e8-43fa-b8cf-c7c65ba4fa16.png)
 
-![Screenshot (48)](https://user-images.githubusercontent.com/83834297/159114125-5855e477-7827-4a22-abcb-6df5a5f70bc0.png)
 
 
 

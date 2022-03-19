@@ -1,3 +1,27 @@
+
+
+  ***** Fetched all Data from api 
+
+![Screenshot (46)](https://user-images.githubusercontent.com/83834297/159114120-15b20109-5261-4374-bd8f-842c5fcd4bd8.png)
+
+
+
+ ***** Loading... component would show while fetching user Data 
+
+![Screenshot (47)](https://user-images.githubusercontent.com/83834297/159114121-d235f0d2-34e8-43fa-b8cf-c7c65ba4fa16.png)
+
+
+ ***** If you would search any username and if that user is not present in that data will show "No Data Found" 
+
+![Screenshot (48)](https://user-images.githubusercontent.com/83834297/159114125-5855e477-7827-4a22-abcb-6df5a5f70bc0.png)
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

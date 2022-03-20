@@ -76,7 +76,7 @@ const Search = () => {
  //  };
 
  async function fetchData() {
-   const response = await fetch('https://randomuser.me/api/?results=15');
+   const response = await fetch('https://randomuser.me/api/?results=500');
    console.log(response);
    const data = await response.json();
    setUsers(data.results);
